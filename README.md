@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi, this is my finalized README file. in tehe readme-edits branch.
